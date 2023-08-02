@@ -3,14 +3,14 @@ const COMMANDS = {
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">certifications</span>, <span class="code">contact</span>',
   about:
-    "Hello I'm Sserunkuuma Ibrahim, a software engineer | data scientist | cyber security analyst with nearly 3 years of experience in the field.  I am well-equipped to identify and analyze potential security threats, vulnerabilites. I am excited to continue leveraging my skills and experience to help organizations stay ahead of potential cyber threats and protect their valuable assets.    ",
+    "Hello I'm Sserunkuuma Ibrahim, a software engineer | data scientist | cyber security analyst with nearly 2 years of experience in the field.  I am well-equipped to identify and analyze potential security threats, vulnerabilites. I am excited to continue leveraging my skills and experience to help organizations stay ahead of potential cyber threats and protect their valuable assets.    ",
   skills:
     "Ethical Hacking | Penetration Testing | Red Teaming | Offensive Testing",
   education:
     "Bachelors of science in software engineering  <br>",
-  experience:'<span class="code"> Working as a Cybersecurity analyst | software engineer </span><br> cyber security analyst at Adonai graphix limited from 2021 - 2023 <br> ',
+  experience:'<span class="code"> Working as a Cybersecurity analyst | software engineer | IT Support </span><br> cyber security analyst at Adonai graphix limited from 2021 - 2023 <br> ',
   certifications: 
-    " Certificate in Data Science  <br> Certificate in CyberSecurity Operations ",
+    " Certificate in Data Science  <br> Certificate in CyberSecurity Operations <br> Certified information systems security professional(CISSP)  ",
   contact:
     "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/sserunkuuma-ibrahim-742a70230/' class='success link'>Linkedin</a>, <a href='mailto:sserunkuumaibrahim@gmail.com' class='success link'>Email</a>,"
 };
