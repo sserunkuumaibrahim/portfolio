@@ -8,7 +8,7 @@ const COMMANDS = {
     "Ethical Hacking | Penetration Testing | Red Teaming | Offensive Testing",
   education:
     "Bachelors of science in software engineering  <br>",
-  experience:'<span class="code"> Working as a Cybersecurity analyst | software engineer | IT Support </span><br> cyber security analyst at Adonai graphix limited from 2021 - 2023 <br> ',
+  experience:'<span class="code"> Working as a Cybersecurity analyst | software engineer | IT Support </span><br> cyber security analyst at Equity Bank Uganda from 2021 - 2023 <br> ',
   certifications: 
     " Certificate in Data Science  <br> Certificate in CyberSecurity Operations <br> Certified information systems security professional(CISSP)  ",
   contact:
